@@ -1,0 +1,22 @@
+*{
+    font-family: monospace;
+}
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contactform label {
+    font-weight: bold;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#pfp img{
+    outline: 3px solid black    
+}
